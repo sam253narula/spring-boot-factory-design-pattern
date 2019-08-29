@@ -8,7 +8,7 @@ Demonstration of how to use builder design pattern for complex object creation w
 Demonstration of how to implement Factory pattern:
 
 Creates objects without exposing the instantiation logic to the client.
-Refers to the newly created object through a common Abstract class, can be even done with interfaceR
+Refers to the newly created object through a common Abstract class, can be even done with interface
 Swagger link Below: http://localhost:8080/swagger-ui.html
 
 List of API:http://localhost:8080/home/arthimaticOperations
